@@ -9,7 +9,7 @@ public class Broken {
     public Broken() {
     }
 
-    void echo() {
+    public void echo() {
 
     }
 
