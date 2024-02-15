@@ -10,7 +10,6 @@ public class Broken {
     }
 
     public void echo() {
-
     }
 
     public void media(Object obj) {
